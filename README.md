@@ -5,7 +5,7 @@
 ![CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-blue?style=for-the-badge)
 
 
-Uma ferramenta de desktop desenvolvida para Engenheiros de Monitoramento e Administradores de Redes realizarem o **Capacity Planning** de bancos de dados Zabbix de forma rápida e precisa.
+Uma ferramenta de desktop desenvolvida para Usuários de Monitoramento e Administradores de Redes realizarem o **Planejamento de Capacidade** de bancos de dados Zabbix de forma rápida e precisa. Fique à vontade para sugerir melhorias!!
 
 
 ## Funcionalidades
