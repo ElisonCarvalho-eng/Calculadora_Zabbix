@@ -36,3 +36,13 @@ O aplicativo utiliza as premissas oficiais da documentação Zabbix para estimat
 2. Instale as dependências:
    ```bash
    pip install customtkinter fpdf
+
+## Download e Execução
+
+Para usuários que não possuem o ambiente Python configurado, disponibilizamos uma versão executável (.exe) para Windows:
+
+1. Acesse a seção [Releases](https://github.com/ElisonCarvalho-eng/Calculadora_Zabbix/releases) do projeto.
+2. Baixe o arquivo `Calculadora_Zabbix.exe`.
+3. Execute diretamente no seu Windows (não requer instalação).
+
+---
