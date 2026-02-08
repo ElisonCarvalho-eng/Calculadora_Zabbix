@@ -1,4 +1,4 @@
-# Zabbix DB Capacity & Planning Calc
+# Calculadora de capacidade e planejamento do banco de dados Zabbix
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Zabbix](https://img.shields.io/badge/zabbix-%23CC2932.svg?style=for-the-badge&logo=zabbix&logoColor=white)
